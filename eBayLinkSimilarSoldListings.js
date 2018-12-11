@@ -47,7 +47,7 @@ function getSearchUrl(listing) {
 }
 
 /**
- * Gets the actual title of a given listing (sometimes eBay includes more than just the title the listing's title).
+ * Gets the actual title of a given listing (sometimes eBay includes more than just the listing's title).
  *
  * @param {Element} listing - The eBay listing to get the actual title.
  * @return {string} The actual title with any extra eBay stuff removed.

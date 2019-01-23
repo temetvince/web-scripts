@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         eBayLinkSimilarSoldListings
+// @namespace    http://github.com/temetvince/web-scripts
+// @version      0.2
+// @description  Updates all eBay search results to include a hyperlink to previously sold postings.
+// @author       Emmett Casey
+// @match        https://www.ebay.com/
+// @grant        none
+// ==/UserScript==
+
 main();
 
 /**

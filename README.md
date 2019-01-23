@@ -11,7 +11,7 @@ Example:
 // @version      0.1
 // @description  Hello world as an alert
 // @author       Emmett Casey
-// @match        https://www.google.com/
+// @match        https://www.google.com/*
 // @grant        none
 // ==/UserScript==
 

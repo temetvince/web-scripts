@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         eBayPricesIncludeShipping
+// @namespace    http://github.com/temetvince/web-scripts
+// @version      0.2
+// @description  Updates all eBay search result prices to include shipping cost and more
+// @author       Emmett Casey
+// @match        https://www.ebay.com/*
+// @grant        none
+// ==/UserScript==
+
 main();
 
 /**
